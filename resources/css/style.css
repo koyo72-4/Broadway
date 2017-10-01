@@ -9,7 +9,7 @@ h4 {
   background: url("../images/the-flatiron-building.png") no-repeat;
 }
 
-.footer {
+footer {
   font-size: 11px;
   text-align: left;
   background-color: dimgray;
@@ -35,7 +35,7 @@ p {
 h1,
 h4,
 a,
-.footer {
+footer {
     color: white;
 }
 
@@ -44,7 +44,8 @@ a {
 }
 
 a,
-p {
+p,
+footer {
   font-weight: normal;
 }
 
